@@ -1,8 +1,8 @@
-# FRESUME
+# FLUTTER RESUME BUILDER
 
-#### Make resumes for free
+#### Make resumes for faster and easier
 
-A responsive resume maker made with Flutter & Firebase. Features include Google Sign in, non logged in resume maker, saving and managing up to 3 resumes.
+A responsive resume maker made with Flutter & Firebase with Google Sign in, non logged in resume maker also allows you to save and manage up to 3 resumes.
 
 ![Screenshot 2022-01-16 at 4 59 33 AM](https://user-images.githubusercontent.com/59999892/149656068-991e35c5-5d1d-489b-8222-7007f0d180dd.png)
 
